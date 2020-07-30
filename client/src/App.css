@@ -1,0 +1,78 @@
+.about{
+    background: #1b66c7;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #3072b1, #457fca);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #5691c8, #0a50ac); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    height: 100%;
+  }
+  .about h4{
+    margin: 0;
+    color: #fff;
+    text-align: center;
+    font-family: 'Exo 2', sans-serif;
+    font-size: 30px;
+  } 
+  .about p{
+    width: 80%;
+    color: aliceblue;
+    margin-left: auto;
+    text-align: justify;
+    margin-right: auto;
+    padding: 5px;
+    font-family: 'Exo 2', sans-serif;
+    font-size: 20px;
+  }
+  .formContainer{
+    background: #1b66c7;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #3072b1, #457fca);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #5691c8, #0a50ac); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    width: 29%;
+    border-radius: 20px;
+    margin-right: 100px;
+    margin-top: 50px;
+    height: 350px;
+    margin: auto;
+    margin-right: auto;
+    display: block;
+  }
+    .formContainer h3{
+        color: #fff;
+        font-family: 'Exo 2', sans-serif;
+        font-size: 30px;
+        font-weight: bold;
+        margin-left: 20px;
+    }
+    .formContainer input{
+        margin-left: 20px;
+        margin-top: 20px;
+       height: 30px;
+       width: 230px;
+       border-radius: 10px;
+       font-family: 'Exo 2', sans-serif;
+       border: 1px solid #457fca;
+    }
+    .formContainer button{
+        margin-left: 20px;
+        margin-top: 40px;
+        height: 40px;
+        width: 100px;
+        background-color: #2f5b94;
+        border: 1px solid #457fca;
+        border-radius: 8px;
+        font-family: 'Exo 2', sans-serif;
+        font-size: 16px;
+        color: #fff;
+        cursor: pointer;
+    }
+  .contactForm{
+    background: #457fca;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #5691c8, #457fca);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #5691c8, #457fca); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    height: 100vh;
+  }
+  .contactForm h4{
+    text-align: center;
+    margin: 0;
+    color: #fff;
+    font-size: 30px;
+   
+  }

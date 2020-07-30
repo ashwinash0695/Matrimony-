@@ -1,0 +1,65 @@
+.landingContainer{
+    height:90vh;
+    
+    background: #2c3e50;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to top, #3498db, #2c3e50);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to top, #3498db, #2c3e50); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+h2{
+   font-size: 35px;
+   font-family: 'Exo 2', sans-serif;
+   margin: 0;
+  padding-top: 30px;
+   text-align: center;
+color:#fff
+}
+    img{
+        margin-left: 90px;
+        height: 350px;
+        margin-left: 40px;
+    
+    }
+.formContainer{
+    background: #457fca;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #5691c8, #457fca);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #5691c8, #457fca); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+        width: 22%;
+    border-radius: 20px;
+    margin-right: 100px;
+    margin-top: 50px;
+    height: 450px;
+    h3{
+        color: #fff;
+        font-family: 'Exo 2', sans-serif;
+        font-size: 30px;
+        font-weight: bold;
+        margin-left: 20px;
+        // margin: 0;
+        padding-left: 10px;
+    }
+    input{
+       margin-left: 20px;
+       margin-top: 20px;
+       height: 30px;
+       width: 230px;
+       border-radius: 10px;
+       font-family: 'Exo 2', sans-serif;
+       border: 1px solid #adadad;
+       font-size: 12px;
+       padding: 5px;
+    }
+        
+    button{
+        margin-left: 20px;
+        margin-top: 40px;
+        height: 40px;
+        width: 100px;
+        background-color: #2f5b94;
+        border: 1px solid #457fca;
+        border-radius: 8px;
+        font-family: 'Exo 2', sans-serif;
+        font-size: 16px;
+        color: #fff;
+        cursor: pointer;
+    }
+}
+}
